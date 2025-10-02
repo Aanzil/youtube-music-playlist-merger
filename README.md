@@ -38,7 +38,7 @@ A modern, user-friendly desktop application for merging multiple YouTube Music p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/youtube-music-playlist-merger.git
+   git clone https://github.com/Aanzil/youtube-music-playlist-merger.git
    cd youtube-music-playlist-merger
    ```
 
